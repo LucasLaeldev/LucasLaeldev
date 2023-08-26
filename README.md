@@ -5,7 +5,7 @@
 “Antes de conquistarmos o sucesso, o êxito, a fama, o que quer que seja, fora de nós, precisamos de conquistar o que está dentro de nós, conquistarmo-nos a nós mesmos.”
  ***João Saramago***
 
-#### Oii, sou o Lucas,sou estudante de Análise e desenvolvimento de sistemas, sou de uma pequena cidade chamada Planaltina-DF, tenho 24 anos, sou pai de um rapaz lindo, sou casado, atualmente trabalho como motoboy mais já tive varias profissões, como ajudante de obras, ajudante de pintura residencial, garçom, técnico de suporte N2 entre outros "bicos". Tenho um nivél intermediário na linguagem Java, JavaScript, HTML, CSS, Typescript, nextJs, Spring, entretanto me falta muito a aprender. Sei que vou errar muito no meu caminho, mas é com os erros que se aprende e será com eles que vou trilhar meu caminho para me tornar um programador. Só posso me comparar com quem fui ontem, e não devo parar de percorrer o caminho. Posso tomar outras rotas, mas jamais deixarei de aprender. 
+#### Oii, tudo bem? sou o Lucas Lael, sou estudante de Análise e desenvolvimento de sistemas, sou de uma pequena cidade chamada Planaltina-DF, tenho 24 anos, sou pai de um rapaz lindo, sou casado, atualmente trabalho como motoboy mais já tive varias profissões, como ajudante de obras, ajudante de pintura residencial, garçom, técnico de suporte N2 entre outros "bicos". Tenho um nivél intermediário na linguagem Java, JavaScript, HTML, CSS, Typescript, nextJs, Spring, entretanto me falta muito a aprender. Sei que vou errar muito no meu caminho, mas é com os erros que se aprende e será com eles que vou trilhar meu caminho para me tornar um programador. Só posso me comparar com quem fui ontem, e não devo parar de percorrer o caminho. Posso tomar outras rotas, mas jamais deixarei de aprender. 
 
 
 
