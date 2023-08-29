@@ -54,9 +54,4 @@
 
 #### Em busca de uma oportunidade onde posso entrar no mundo do desenvolvimento de softwares e desenvolvimento web, e aprender novas linguagens e estar sempre atualizado com o mundo de desenvolvedores.
 
-## Minhas contribuições.
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=LucasLaeldev&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/LucasLaeldev/dio-lab-open-source)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=LucasLaeldev&repo=ContaBanco-Dio&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/LucasLaeldev/ContaBanco-Dio)
-
-
 <img src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/vulcan-salute_1f596.png" width="60" height="60"/>
